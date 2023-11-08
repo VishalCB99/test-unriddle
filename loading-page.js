@@ -7,7 +7,7 @@ window.addEventListener('load', () => {
   setTimeout(() => {
       loadingContainer.style.display = 'none'; // Hide the loading animation
       content.style.display = 'block'; // Show the content
-  }, 1200); // Adjust the delay time (in milliseconds) as needed
+  }, 1500); // Adjust the delay time (in milliseconds) as needed
 });
 
 

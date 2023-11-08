@@ -1,0 +1,44 @@
+.header {
+  height: 5vh;
+  border-width: 1px;
+  border-style: solid;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+
+}
+
+.left-section {
+  width: 11vw;
+  background-color: black;
+  margin-top: 5px;
+}
+
+.brand-logo {
+  width: 100%;
+}
+
+.middle-section {
+  width: 44vw;
+  background-color: black;
+  margin-left: 4vw;
+}
+
+.brand-name {
+  width: 100%;
+}
+
+.right-section {
+  width: 15vw;
+  background-color: black;
+}
+
+.menu-button {
+  width: 100%;
+  color: white;
+  background-color: black;
+  border: none;
+}
